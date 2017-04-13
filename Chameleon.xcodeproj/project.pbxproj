@@ -876,7 +876,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -897,7 +897,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.viccalexander.Chameleon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -948,6 +948,7 @@
 				0C8A5E021D8D54EF00B71D95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C8DABC51C07B5EA00B28FE2 /* Build configuration list for PBXNativeTarget "ChameleonDemo-Objc" */ = {
 			isa = XCConfigurationList;
